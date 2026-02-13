@@ -23,6 +23,6 @@ btnNon.addEventListener('click', () => {
 
 btnOui.addEventListener('click', () => {
     question.innerText = "YAY ! Je t'aime ! ❤️❤️❤️";
-    mainGif.src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp0eXoxbmZ4ZzB6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/G96zgIcQn1L2xpmMlr/giphy.gif"; // GIF de victoire
+    mainGif.src = "imageedit_2_9642675602.gif"; // GIF de victoire
     btnNon.style.display = 'none';
 });
