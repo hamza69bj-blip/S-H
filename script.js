@@ -5,7 +5,7 @@ const mainGif = document.getElementById('main-gif');
 
 const messages = [
     "Sûr(e) ?", "Vraiment sûr(e) ?", "Réfléchis encore...",
-    "S'il te plaît ?", "Je vais pleurer...", "Tu me brises le cœur 💔"
+    "Ayy Kiech ?", "Bch N8afsekk...", "Tu me brises le cœur 💔"
 ];
 let messageIndex = 0;
 let size = 1.2;
