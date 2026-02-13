@@ -4,8 +4,8 @@ const question = document.getElementById('question');
 const mainGif = document.getElementById('main-gif');
 
 const messages = [
-    "Sûr(e) ?", "Vraiment sûr(e) ?", "Réfléchis encore...",
-    "Ayy Kiech ?", "Bch N8afsekk...", "Tu me brises le cœur 💔"
+    "Sure ?", "Vraiment sûre ?", "Réfléchis encore...",
+    "Ayy Kiech ?", "Bch N8afsekk!...", "Tu me brises le cœur 💔"
 ];
 let messageIndex = 0;
 let size = 1.2;
@@ -22,7 +22,7 @@ btnNon.addEventListener('click', () => {
 });
 
 btnOui.addEventListener('click', () => {
-    question.innerText = "YAY ! Je t'aime ! ❤️❤️❤️";
+    question.innerText = "Aaa aaaahhh! Rabbi yahfdhek w yostrek nchallah dima Tkoun b 5ir w farhana, Happy Valentines! Love Uuuu! ❤️❤️❤️";
     mainGif.src = "imageedit_2_9642675602.gif"; // GIF de victoire
     btnNon.style.display = 'none';
 });
